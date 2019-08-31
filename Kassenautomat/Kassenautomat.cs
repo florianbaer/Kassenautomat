@@ -52,7 +52,7 @@ namespace Kassenautomat
 
             return null;
         }
-    }
+    
 
         public int AlertCoinMinimum()
         {
