@@ -1,0 +1,11 @@
+C:\Users\flori\source\repos\Kassenautomat\Kassenautomat\obj\Debug\netcoreapp2.2\Kassenautomat.csprojAssemblyReference.cache
+C:\Users\flori\source\repos\Kassenautomat\Kassenautomat\obj\Debug\netcoreapp2.2\Kassenautomat.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Kassenautomat\Kassenautomat\obj\Debug\netcoreapp2.2\Kassenautomat.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Kassenautomat\Kassenautomat\obj\Debug\netcoreapp2.2\Kassenautomat.AssemblyInfo.cs
+C:\Users\flori\source\repos\Kassenautomat\Kassenautomat\bin\Debug\netcoreapp2.2\Kassenautomat.deps.json
+C:\Users\flori\source\repos\Kassenautomat\Kassenautomat\bin\Debug\netcoreapp2.2\Kassenautomat.runtimeconfig.json
+C:\Users\flori\source\repos\Kassenautomat\Kassenautomat\bin\Debug\netcoreapp2.2\Kassenautomat.runtimeconfig.dev.json
+C:\Users\flori\source\repos\Kassenautomat\Kassenautomat\bin\Debug\netcoreapp2.2\Kassenautomat.dll
+C:\Users\flori\source\repos\Kassenautomat\Kassenautomat\bin\Debug\netcoreapp2.2\Kassenautomat.pdb
+C:\Users\flori\source\repos\Kassenautomat\Kassenautomat\obj\Debug\netcoreapp2.2\Kassenautomat.dll
+C:\Users\flori\source\repos\Kassenautomat\Kassenautomat\obj\Debug\netcoreapp2.2\Kassenautomat.pdb
